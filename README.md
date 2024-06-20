@@ -1,2 +1,2 @@
-# hellion_agent
+# hellion
 C++ Agent for the Mythic framework.
